@@ -72,15 +72,103 @@ HairDora provides modern hair salon management software, enabling salons to mana
 
 Everything profiled for HairDora is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hairdora-com/](https://apis.io/providers/hairdora-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (6)
+
+- [HairDora Appointments API](https://apis.io/apis/hairdora-com/hairdora-com-appointments-api/) — The Appointments API from HairDora — 2 operation(s) for appointments.
+- [HairDora Clients API](https://apis.io/apis/hairdora-com/hairdora-com-clients-api/) — The Clients API from HairDora — 2 operation(s) for clients.
+- [HairDora Keys API](https://apis.io/apis/hairdora-com/hairdora-com-keys-api/) — The Keys API from HairDora — 1 operation(s) for keys.
+- [HairDora Salons API](https://apis.io/apis/hairdora-com/hairdora-com-salons-api/) — The Salons API from HairDora — 2 operation(s) for salons.
+- [HairDora Services API](https://apis.io/apis/hairdora-com/hairdora-com-services-api/) — The Services API from HairDora — 2 operation(s) for services.
+- [HairDora Webhook subscriptions API](https://apis.io/apis/hairdora-com/hairdora-com-webhook-subscriptions-api/) — The Webhook subscriptions API from HairDora — 2 operation(s) for webhook subscriptions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [HairDora Agentic Access](https://apis.io/agentic-access/hairdora-com/hairdora-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [HairDora API Rules](https://apis.io/rules/hairdora-com/hairdora-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [HairDora Authentication](https://apis.io/security/hairdora-com/hairdora-com-authentication/)
+- [HairDora Domain Security](https://apis.io/security/hairdora-com/hairdora-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [HairDora Plans Pricing](https://apis.io/plans/hairdora-com/hairdora-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://hairdora.com/)
+- [Website](https://www.hairdora.com/en/)
+- [Documentation](https://www.hairdora.com/docs/en/)
+- [Getting started](https://www.hairdora.com/en/)
+- [API reference](https://www.hairdora.com/api/)
+- [Pricing](https://www.hairdora.com/en/pricing/)
+- [Support](https://www.hairdora.com/contact/)
+- [Blog](https://www.hairdora.com/blog/en/)
+- [Trust centre](https://trust.hairdora.com/ar/)
+- [Terms of service](https://www.hairdora.com/en/terms-and-conditions/)
+- [Privacy policy](https://www.hairdora.com/privacy/)
+- [Status](https://www.hairdora.com/status)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/hairdora-com/](https://apis.io/providers/hairdora-com/).
+**Kin Score 58.4** — strong · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 43.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 77.9 |
+| Access clarity | 58.4 |
+
+**Agent readiness 38.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hairdora-com/](https://apis.io/providers/hairdora-com/).
 
 ## How this profile is made
 
